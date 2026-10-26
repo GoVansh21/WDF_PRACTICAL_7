@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Oza Vansh",
+        "email": "d26dce146@charusat.edu.in",
+        "mobile": "1234567889",
+        "course": "Information Technology",
+        "password": "$2y$10$.R9fftvXkYz4.\/avAkzv1.0z4\/1Ya8s0CPWoyHl8ZHMijOzFvCgLy",
+        "date": "30-09-2026 09:48:22 AM"
+    },
+    {
+        "name": "ankur",
+        "email": "ankur12@gmail.com",
+        "mobile": "6712345778",
+        "course": "Computer Science",
+        "password": "$2y$10$fbbPAx9TFmXu0LNVqNH5jOzd4.TyHRGt97sgtse7YWYanD2\/yYP5u",
+        "date": "08-10-2026 03:05:00 PM"
+    },
+    {
+        "name": "william",
+        "email": "william@gmail.com",
+        "mobile": "9723873212",
+        "course": "Computer Engineering",
+        "password": "$2y$10$qefokJARvyWC.6eyVOaARu6rw3xvW3XURf1OY.ZxWK6jXmfYZGJGe",
+        "date": "23-10-2026 05:14:52 AM"
+    }
+]
